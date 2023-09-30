@@ -201,9 +201,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
- {file_name}
-
-⚙️ sɪᴢᴇ : {file_size}"""
+<b><a href=https://t.me/newmoveisp>{file_caption}</a>
+▫️ <b><a href=https://t.me/+ejpD6LYqsIRlZDg1>{♥⁠╣As_creation⁠╠⁠♥}</a>
 
     FORCE_SUB = """
 **⚠️ Pʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴛʜɪs ʀᴜʟe ⚠️
