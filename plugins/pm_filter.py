@@ -1660,7 +1660,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "mods":
         buttons = [[
-            InlineKeyboardButton('🖼️ Creator 🔭', url='https://t.me/Sivam_uv)
+            InlineKeyboardButton('🖼️ Creator 🔭', url='https://t.me/Sivam_uv')
                   ]]       
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
