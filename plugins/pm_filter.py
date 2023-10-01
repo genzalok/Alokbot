@@ -1305,7 +1305,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                  InlineKeyboardButton('Jᴏɪɴ Cʜᴀɴɴᴇʟ', url=link.invite_link),
                  InlineKeyboardButton("Vɪᴇᴡ Sᴛᴀᴛᴜs", url=f"{query.message.link}")
                ],[
-                 InlineKeyboardButton("", url="telegram.me/YDMovieZone")
+                 InlineKeyboardButton("Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ", url=GRP_LNK)
                ]]
         if query.from_user.id in ADMINS:
             user = await client.get_users(from_user)
@@ -1383,13 +1383,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('↼ Eᴀʀɴ Mᴏɴᴇʏ', callback_data="shortlink_info"),
-                    InlineKeyboardButton('Mᴏᴠɪᴇ Gʀᴏᴜᴘ ⇀', url=GRP_LNK)
+                    InlineKeyboardButton('❣️Update Channel❣️', url=SPRT_CHNL),
+                    InlineKeyboardButton('⚡Mᴏᴠɪᴇ Gʀᴏᴜᴘ ⚡', url=GRP_LNK)
                 ],[
-                    InlineKeyboardButton('↼ Hᴇʟᴘ', callback_data='help'),
-                    InlineKeyboardButton('Aʙᴏᴜᴛ ⇀', callback_data='about')
+                    InlineKeyboardButton(' 😸Hᴇʟᴘ✨', callback_data='help'),
+                    InlineKeyboardButton('💕Aʙᴏᴜᴛ 📌', callback_data='about')
                 ],[
-                    InlineKeyboardButton('✪ Jᴏɪɴ Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟs ✪', callback_data="chnl_info")
+                    InlineKeyboardButton('©️Eᴀʀɴ Mᴏɴᴇʏ💲', callback_data="shortlink_info")
                   ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1775,7 +1775,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "owner_info":
             btn = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="t.me/UNKNOWN_MAN_ON_MISSION")
+                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="t.me/alok_maddheshiya")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
