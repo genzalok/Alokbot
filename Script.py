@@ -102,7 +102,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ★ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
 ★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
 ★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
-★ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href='https://t.me/+ejpD6LYqsIRlZDg1'>ᴜɴᴋɴᴏᴡɴ</a></b>
+★ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href='https://t.me/Sivam_uv'>ʘ⁠‿⁠ʘ</a></b>
 •❅─────✧❅✦❅✧─────❅•"""
 
     LOG_TEXT_G = """#NewGroupother
@@ -201,7 +201,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b><a href=https://t.me/newmoveisp>{file_name}</a>
+<b><a href=https://t.me/ipopcorn_group>{file_name}</a>
 ▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : <a href="https://t.me/ipopcorn_group">Movie_channel</a>
 ▫️ Mᴀɪɴ owner : <a href="https://t.me/alok_maddheshiya">owner</a></b>""" 
 
