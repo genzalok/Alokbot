@@ -1383,11 +1383,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('⚡️ UPDATES ⚡️', url=SPRT_CHNL),
-                    InlineKeyboardButton('🍿 REQUEST MOVIE 🍿', url=GRP_LNK)
+                    InlineKeyboardButton('⚡️ ᴜᴘᴅᴀᴛᴇ ⚡️', url=SPRT_CHNL),
+                    InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ 🍿', url=GRP_LNK)
                 ],[
-                    InlineKeyboardButton(' 🍄 HELP 🍄', callback_data='help'),
-                    InlineKeyboardButton('🔰 ABOUT 🔰', callback_data='about')
+                    InlineKeyboardButton(' 🍄 ʜᴇʟᴘ 🍄', callback_data='help'),
+                    InlineKeyboardButton('🔰 ᴀʙᴏᴜᴛ 🔰', callback_data='about')
                 ],[
                     InlineKeyboardButton('💰 EARE MONEY WITH BOT 💸', callback_data="shortlink_info")
                   ]]
