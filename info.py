@@ -51,8 +51,8 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'AutoFilter')
 
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'zxlink.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', '5017b096bac763c4c748fd0330fedf6da1294076')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'shareus.io')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'JI5RrDkI3qPqLMw6hoHAsJCB2Ex2')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "10")
